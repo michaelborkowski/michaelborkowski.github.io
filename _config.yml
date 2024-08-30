@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Michael H. Borkowski"
 title_separator          : "-"
 name                     : &name "Michael H. Borkowski"
-description              : &description "Ph.D. Candidate at UC San Diego"
+description              : &description "Asst. Prof. of Practice at Purdue"
 url                      : https://michaelborkowski.github.io # the base hostname & protocol for your site
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "michaelborkowski.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Michael H. Borkowski"
   avatar           : "Michael_Borkowski.jpg"
-  bio              : "Ph.D. Candidate at UCSD"
-  location         : "La Jolla, CA"
+  bio              : "Asst. Prof. of Practice at Purdue"
+  location         : "West Lafayette, IN"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=7jVgRPQAAAAJ"
-  email            : "mborkows at ucsd dot edu"
+  email            : "mhborkow at purdue dot edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
